@@ -1,7 +1,7 @@
 # Word2Vec from Scratch in Python 🧠✨
 
 A simple implementation of Word2Vec using NumPy — built entirely from scratch for educational purposes.  
-This project uses a small, categorized dataset (animals, countries, foods, vehicles) and visualizes learned word embeddings using t-SNE.
+This project uses a small, categorized dataset animals and visualizes learned word embeddings using t-SNE.
 
 ---
 
